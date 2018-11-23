@@ -188,7 +188,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="SF.ico" />
-    <Content Include="_msg\TextFile1.txt" />
     <Content Include="_msg\_readMe_Msg.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
