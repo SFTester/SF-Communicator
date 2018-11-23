@@ -1,0 +1,1 @@
+copy "..\_msg\R1-1,2-OFF.msg.sf" "..\_msgIn\"
